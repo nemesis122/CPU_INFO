@@ -1,7 +1,7 @@
 # CPU_INFO
 CPU Info until DSM7
 Coorect the CPU Information for XPE DSM 6 +7 
-Download attached file on your PC (ch_cpuinfo.tar)  
+Download attached file to your Xpenology Server  (ch_cpuinfo.tar)  
 
  
 
